@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Desafio Dart - Bootcamp DIO
+
+Neste Desafio foi criado uma calculadora de IMC (Índice de Massa Corporal) simples utilizando a linguagem Dart.
